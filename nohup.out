@@ -1,0 +1,12 @@
+[2024-02-01 15:02:15 +0000] [12092] [INFO] Starting gunicorn 21.2.0
+[2024-02-01 15:02:15 +0000] [12092] [INFO] Listening at: http://178.79.184.50:8000 (12092)
+[2024-02-01 15:02:15 +0000] [12092] [INFO] Using worker: sync
+[2024-02-01 15:02:15 +0000] [12095] [INFO] Booting worker with pid: 12095
+[2024-02-01 15:02:15 +0000] [12096] [INFO] Booting worker with pid: 12096
+[2024-02-01 15:02:15 +0000] [12097] [INFO] Booting worker with pid: 12097
+[2024-02-01 15:02:15 +0000] [12098] [INFO] Booting worker with pid: 12098
+[2024-02-01 15:02:15 +0000] [12099] [INFO] Booting worker with pid: 12099
+[2024-02-01 15:02:15 +0000] [12100] [INFO] Booting worker with pid: 12100
+[2024-02-01 15:02:15 +0000] [12101] [INFO] Booting worker with pid: 12101
+[2024-02-01 15:02:15 +0000] [12102] [INFO] Booting worker with pid: 12102
+[2024-02-01 15:02:15 +0000] [12103] [INFO] Booting worker with pid: 12103
